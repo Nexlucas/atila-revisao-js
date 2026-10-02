@@ -1,0 +1,46 @@
+*{
+
+}
+body{
+    
+}
+
+main{
+
+}
+
+.formulario{
+
+}
+
+label{
+
+}
+input{
+
+}
+button{
+
+}
+button:hover{
+    background: #1d4ed8;
+}
+
+#resultado {
+    background: #fff;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px #ccc;
+    text-align: left;
+}
+
+#resultado h2{
+    color: #2563eb;
+    margin-top: 0;
+}
+
+.erro{
+    color: #b91c1c;
+    font-weight: bold;
+}

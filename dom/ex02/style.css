@@ -1,0 +1,20 @@
+body{
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+li{
+    list-style-type: disc;
+}
+input[type="text"]{
+    padding: 8px;
+    margin-right: 10px;
+}
+
+button{
+    padding: 8px 12px;
+    background: #008d8d;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+}
